@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns	=	"http://www.w3.org/ns/widgets"
+	xmlns:gap	=	"http://phonegap.com/ns/1.0"
+	id			=	"tk.otonielahdz.lecciones"
+	version		=	"1.0.0">
+	
+<name>Lección - Adultos</name>
+
+<description>
+Lección de Escuela Sabática Edicion para Adultos.
+</description>
+
+<author href="http://otonielahdz.tk" email="otoniel.alfaro@gmail.com">
+Antony Otoniel Alfaro Hernández
+</author>
+
+<preference name="phonegap-version" value="3.5.0" />
+
+<icon src="jquery-mobile/images/icon.png" />
+
+</widget>
